@@ -5,4 +5,5 @@
     "hello": "node server.js"
   },
   # run commands:npm server.js or npm start or npm run hello
-  # 
+  # Routes
+  # http:localhost:8081/#
